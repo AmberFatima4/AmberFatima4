@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4BwEeHzS3HgDuh4TU5pRX6GvSqN5v542Jo8mVR9pubzu9so2KrcZ0V150osyXWmCuA&usqp=CAU" alt="Header GIF" width="700"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4BwEeHzS3HgDuh4TU5pRX6GvSqN5v542Jo8mVR9pubzu9so2KrcZ0V150osyXWmCuA&usqp=CAU" alt="Header GIF" width="900"/>
 </h1>
 <h1 align="center">Hi 👋, I'm Amber Fatima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amberfatima4&label=Profile%20views&color=0e75b6&style=flat" alt="amberfatima4" /> </p>

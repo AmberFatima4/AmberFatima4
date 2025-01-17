@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **emberfatima24@gmail.com**
 
-- ⚡ Fun fact **'m passionate about coding and problem-solving.**
+- ⚡ Fun fact **I'm passionate about coding and problem-solving.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
